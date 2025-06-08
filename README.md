@@ -1,6 +1,6 @@
 # Unity6-Left4Dead2-Clone
-Left 4 Dead 2 clone project with Unity 6 engine
-This project is aimed to learn Unity and C#.
+Left 4 Dead 2 clone project with Unity 6 engine  
+This project is aimed to learn Unity and C#.  
 
 https://wikidocs.net/book/17745
 
