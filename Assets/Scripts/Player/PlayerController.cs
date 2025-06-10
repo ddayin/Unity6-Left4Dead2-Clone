@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Left4Dead2
+namespace L4D2Clone
 {
     public class PlayerController : MonoBehaviour
     {
